@@ -324,160 +324,160 @@ image: ""
 history: {
     easy: [
         {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who was the first Roman Emperor?",
+choices: ["Julius Caesar", "Nero", "Augustus", "Trajan"],
+correctAnswer: "Augustus",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"In which city are the Pyramids of Giza located?",
+choices: ["Baghdad", "Athens", "Rome", "Cairo"],
+correctAnswer: "Cairo",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the ancient Roman amphitheatre called?",
+choices: ["Colosseum", "Parthenon", "Acropolis", "Forum"],
+correctAnswer: "Colosseum",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who discovered America in 1492?",
+choices: ["Christopher Columbus", "Vasco de Gama", "Magellan", "Cook"],
+correctAnswer: "Christoper Columbus",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which civilization built the pyramids?",
+choices: ["Romans", "Egyptians", "Greeks", "Persians"],
+correctAnswer: "Egyptians",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What was Darwin's ship called?",
+choices: ["Victoria", "Discovery", "Endeavour", "Beagle"],
+correctAnswer: "Beagle",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where was Ancient Greece located?",
+choices: ["Italy", "Greece", "Spain", "Egypt"],
+correctAnswer: "Greece",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who was a famous Roman General?",
+choices: ["Alexander", "Napaleon", "Stalin", "Caesar"],
+correctAnswer: "Caesar",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which ancient city was destroyed by Mount Vesuvius?",
+choices: ["Troy", "Sparta", "Pompeii", "Athens"],
+correctAnswer: "Pompeii",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which empire built roads across Europe?",
+choices: ["Ottoman Empire", "British Empire", "Roman Empire", "Persian Empire"],
+correctAnswer: "Roman Empire",
 image: ""
 }
 ],
 medium: [
     {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"In what year did World War I begin?",
+choices: ["1914", "1918", "1939", "1942"],
+correctAnswer: "1914",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who was the leader of Nazi Germani?",
+choices: ["Mussolini", "Hitler", "Stalin", "Churchill"],
+correctAnswer: "Hitler",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where did the French Revolution take place?",
+choices: ["Rome", "Berlin", "Lisbon", "Paris"],
+correctAnswer: "Paris",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who was Emperor of France?",
+choices: ["Napaleon", "Caesar", "Alexander", "William"],
+correctAnswer: "Napaleon",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country landed on the Moon first?",
+choices: ["China", "USSR", "USA", "UK"],
+correctAnswer: "USA",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What was Columbus flagship called?",
+choices: ["Titanic", "Victory", "Santa Maria", "Endeavour"],
+correctAnswer: "Santa Maria",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which empire ruled the Ottomans?",
+choices: ["Roman Empire", "Ottoman Empire", "Byzantine Empire", "Persian Empire"],
+correctAnswer: "Ottoman Empire",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where was the Trojan Horse story set?",
+choices: ["Sparta", "Rome", "Athens", "Troy"],
+correctAnswer: "Troy",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which side won WW II/ WWII in Europe?",
+choices: ["Axis", "Allies", "USSR only", "Germany"],
+correctAnswer: "Allies",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Whare was the Taj Mahal built?",
+choices: ["India", "Egypt", "China", "Turkey"],
+correctAnswer: "India",
 image: ""
 }
 ],
 hard: [
     {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"In what year did the Berlin Wall fall?",
+choices: ["1961", "1979", "1989", "1991"],
+correctAnswer: "1989",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who commanded Allied forces in Normandy",
+choices: ["Eisenhower", "Churchill", "Patton", "Montgomery"],
+correctAnswer: "Eisenhower",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"In what year did WW II/ WWII end?",
+choices: ["1939", "1945", "1944", "1950"],
+correctAnswer: "1945",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which empire used legions first?",
+choices: ["Greek", "Persian", "Egyptian", "Roman"],
+correctAnswer: "Roman",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Who developed the theory of relativity?",
+choices: ["Newton", "N.Tesla", "Einstein", "Galileo"],
+correctAnswer: "Einstein",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which battle defeated Napaleon?",
+choices: ["Austerlitz", "Waterloo", "Leipzig", "Trafalgar"],
+correctAnswer: "Waterloo",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country launched the first satellite?",
+choices: ["USA", "China", "France", "USSR"],
+correctAnswer: "USSR",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What was Germany's WW II / WWII plan called?",
+choices: ["Blitzkrieg", "Neptune", "Barbarossa", "Overlord"],
+correctAnswer: "Barbarossa",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where did Germany surrender in WW II / WWII",
+choices: ["Berlin", "Paris", "Kiev", "Rome"],
+correctAnswer: "Berlin",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which empire was the largest in history?",
+choices: ["Roman Empire", "British Empire", "Mongol Empire", "Ottoman Empire"],
+correctAnswer: "British Empire",
 image: ""
 }
 ]
