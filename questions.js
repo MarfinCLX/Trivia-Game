@@ -485,162 +485,162 @@ image: ""
 geography: {
     easy: [
         {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of france?",
+choices: ["London", "Moscov", "Magrid", "Paris"],
+correctAnswer: "Paris",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the largest country in the world?",
+choices: ["USA", "China", "Russia", "Canada"],
+correctAnswer: "Russia",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which ocean is the largest?",
+choices: ["Pacific", "Indian", "Atlantic", "Arctic"],
+correctAnswer: "Pacific",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is Egypt located?",
+choices: ["America", "Europe", "Africa", "Asia"],
+correctAnswer: "Africa",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country is famous for the Eiffel Tower?",
+choices: ["Portugal", "France", "UK", "Germany"],
+correctAnswer: "France",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which continent is the coldest?",
+choices: ["Asia", "Antartica", "Europe", "Africa"],
+correctAnswer: "Antartica",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Spain?",
+choices: ["Madrid", "Barcelona", "Lisbon", "Valencia"],
+correctAnswer: "Madrid",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is Brazil located?",
+choices: ["Europe", "Africa", "Asia", "South America"],
+correctAnswer: "South America",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the main language in Brazil?",
+choices: ["Spanish", "Portuguese", "English", "French"],
+correctAnswer: "Portuguese",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which river is the longest in world?",
+choices: ["Amazon", "Nile", "Yangtze", "Mississippi"],
+correctAnswer: "Nile",
 image: ""
 }
     ],
     medium: [
         {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Japan?",
+choices: ["Hiroshima", "Kyoto", "Tokyo", "Osaka"],
+correctAnswer: "Tokyo",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the highest mountain in the world?",
+choices: ["K2", "Kilimanjaro", "Everest", "Alps"],
+correctAnswer: "Everest",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where are Alps located?",
+choices: ["Asia", "Europe", "America", "Africa"],
+correctAnswer: "Europe",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Canada?",
+choices: ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+correctAnswer: "Ottawa",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country has the largest population?",
+choices: ["India", "USA", "China", "Indonesia"],
+correctAnswer: "India",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is the Sahara located?",
+choices: ["Asia", "Africa", "Australia", "Europe"],
+correctAnswer: "Africa",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Austalia?",
+choices: ["Sydney", "Melbourne", "Perth", "Canberra"],
+correctAnswer: "Canberra",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which river flows through London?",
+choices: ["Seine", "Thames", "Danube", "Rhine"],
+correctAnswer: "Thames",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country is shaped like a boot?",
+choices: ["Greece", "Turkey", "Italy", "Portugal"],
+correctAnswer: "Italy",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is Greenland located?",
+choices: ["North America", "Asia", "South America", "Europe"],
+correctAnswer: "North America",
 image: ""
 }
     ],
     hard: [
         {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Brazil?",
+choices: ["Salvador", "Rio de Janeiro", "São Paulo", "Brasília"],
+correctAnswer: "Brasília",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the longest river in South America?",
+choices: ["Amazon", "Paraná", "Orinoco", "São Francisco"],
+correctAnswer: "Amazon",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country is landblocked?",
+choices: ["Portugal", "Bolivia", "Japan", "Ukraine"],
+correctAnswer: "Bolivia",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is the Dead Sea located?",
+choices: ["Egypt", "Turkey", "Iran", "Israel/Jordan"],
+correctAnswer: "Israel/Jordan",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country has the most islands?",
+choices: ["USA", "Indonesia", "Sweden", "Japan"],
+correctAnswer: "Sweden",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the capital of Turkey?",
+choices: ["Istanbul", "Izmir", "Ankara", "Bursa"],
+correctAnswer: "Ankara",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country borders the most countries?",
+choices: ["Russia", "Brazil", "China", "Germany"],
+correctAnswer: "China",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"What is the deepest point in the ocean?",
+choices: ["Mariana Trench", "Bermuda", "Pacific Ridge", "Java Trench"],
+correctAnswer: "Mariana Trench",
 image: ""
 }, {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Where is Mount Kilimanjaro located?",
+choices: ["Ethiopia", "Tanzania", "Kenya", "Uganda"],
+correctAnswer: "Tanzania",
 image: ""
 } , {
-    question:"",
-choices: ["", "", "", ""],
-correctAnswer: "",
+    question:"Which country has two official capitals?",
+choices: ["Netherlands", "Malaysia", "Russia", "Bolivia"],
+correctAnswer: "Bolivia",
 image: ""
 }
-    ]
+]
 }
 }
