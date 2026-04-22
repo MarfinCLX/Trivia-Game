@@ -327,52 +327,52 @@ history: {
     question:"Who was the first Roman Emperor?",
 choices: ["Julius Caesar", "Nero", "Augustus", "Trajan"],
 correctAnswer: "Augustus",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N1.jpg"
 }, {
     question:"In which city are the Pyramids of Giza located?",
 choices: ["Baghdad", "Athens", "Rome", "Cairo"],
 correctAnswer: "Cairo",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N2.jpg"
 }, {
     question:"What is the ancient Roman amphitheatre called?",
 choices: ["Colosseum", "Parthenon", "Acropolis", "Forum"],
 correctAnswer: "Colosseum",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N3.jpg"
 }, {
     question:"Who discovered America in 1492?",
 choices: ["Christopher Columbus", "Vasco de Gama", "Magellan", "Cook"],
 correctAnswer: "Christoper Columbus",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N4.jpg"
 }, {
     question:"Which civilization built the pyramids?",
 choices: ["Romans", "Egyptians", "Greeks", "Persians"],
 correctAnswer: "Egyptians",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N5.jpg"
 }, {
     question:"What was Darwin's ship called?",
 choices: ["Victoria", "Discovery", "Endeavour", "Beagle"],
 correctAnswer: "Beagle",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N6.jpg"
 }, {
     question:"Where was Ancient Greece located?",
 choices: ["Italy", "Greece", "Spain", "Egypt"],
 correctAnswer: "Greece",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N7.jpg"
 }, {
     question:"Who was a famous Roman General?",
 choices: ["Alexander", "Napaleon", "Stalin", "Caesar"],
 correctAnswer: "Caesar",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N8.jpg"
 }, {
     question:"Which ancient city was destroyed by Mount Vesuvius?",
 choices: ["Troy", "Sparta", "Pompeii", "Athens"],
 correctAnswer: "Pompeii",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N9.jpg"
 }, {
     question:"Which empire built roads across Europe?",
 choices: ["Ottoman Empire", "British Empire", "Roman Empire", "Persian Empire"],
 correctAnswer: "Roman Empire",
-image: ""
+image: "Images/Images_History/Easy/History_easy_N10.jpg"
 }
 ],
 medium: [
@@ -380,52 +380,52 @@ medium: [
     question:"In what year did World War I begin?",
 choices: ["1914", "1918", "1939", "1942"],
 correctAnswer: "1914",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N1.jpg"
 }, {
-    question:"Who was the leader of Nazi Germani?",
+    question:"Who was the leader of Nazi Germany?",
 choices: ["Mussolini", "Hitler", "Stalin", "Churchill"],
 correctAnswer: "Hitler",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N2.jpg"
 }, {
     question:"Where did the French Revolution take place?",
 choices: ["Rome", "Berlin", "Lisbon", "Paris"],
 correctAnswer: "Paris",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N3.jpg"
 }, {
     question:"Who was Emperor of France?",
 choices: ["Napaleon", "Caesar", "Alexander", "William"],
 correctAnswer: "Napaleon",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N4.jpg"
 }, {
     question:"Which country landed on the Moon first?",
 choices: ["China", "USSR", "USA", "UK"],
 correctAnswer: "USA",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N5.jpg"
 }, {
     question:"What was Columbus flagship called?",
 choices: ["Titanic", "Victory", "Santa Maria", "Endeavour"],
 correctAnswer: "Santa Maria",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N6.jpg"
 }, {
     question:"Which empire ruled the Ottomans?",
 choices: ["Roman Empire", "Ottoman Empire", "Byzantine Empire", "Persian Empire"],
 correctAnswer: "Ottoman Empire",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N7.jpg"
 }, {
     question:"Where was the Trojan Horse story set?",
 choices: ["Sparta", "Rome", "Athens", "Troy"],
 correctAnswer: "Troy",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N8.jpg"
 }, {
     question:"Which side won WW II/ WWII in Europe?",
 choices: ["Axis", "Allies", "USSR only", "Germany"],
 correctAnswer: "Allies",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N9.jpg"
 }, {
-    question:"Whare was the Taj Mahal built?",
+    question:"Where was the Taj Mahal built?",
 choices: ["India", "Egypt", "China", "Turkey"],
 correctAnswer: "India",
-image: ""
+image: "Images/Images_History/Medium/History_medium_N10.jpg"
 }
 ],
 hard: [
@@ -433,52 +433,52 @@ hard: [
     question:"In what year did the Berlin Wall fall?",
 choices: ["1961", "1979", "1989", "1991"],
 correctAnswer: "1989",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N1.jpg"
 }, {
     question:"Who commanded Allied forces in Normandy",
 choices: ["Eisenhower", "Churchill", "Patton", "Montgomery"],
 correctAnswer: "Eisenhower",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N2.jpg"
 }, {
     question:"In what year did WW II/ WWII end?",
 choices: ["1939", "1945", "1944", "1950"],
 correctAnswer: "1945",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N3.jpg"
 }, {
     question:"Which empire used legions first?",
 choices: ["Greek", "Persian", "Egyptian", "Roman"],
 correctAnswer: "Roman",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N4.jpg"
 }, {
     question:"Who developed the theory of relativity?",
 choices: ["Newton", "N.Tesla", "Einstein", "Galileo"],
 correctAnswer: "Einstein",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N5.jpg"
 }, {
     question:"Which battle defeated Napaleon?",
 choices: ["Austerlitz", "Waterloo", "Leipzig", "Trafalgar"],
 correctAnswer: "Waterloo",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N6.jpg"
 }, {
     question:"Which country launched the first satellite?",
 choices: ["USA", "China", "France", "USSR"],
 correctAnswer: "USSR",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N7.jpg"
 }, {
     question:"What was Germany's WW II / WWII plan called?",
 choices: ["Blitzkrieg", "Neptune", "Barbarossa", "Overlord"],
 correctAnswer: "Barbarossa",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N8.jpg"
 }, {
     question:"Where did Germany surrender in WW II / WWII",
 choices: ["Berlin", "Paris", "Kiev", "Rome"],
 correctAnswer: "Berlin",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N9.jpg"
 }, {
     question:"Which empire was the largest in history?",
 choices: ["Roman Empire", "British Empire", "Mongol Empire", "Ottoman Empire"],
 correctAnswer: "British Empire",
-image: ""
+image: "Images/Images_History/Hard/History_hard_N10.jpg"
 }
 ]
 },
@@ -488,52 +488,52 @@ geography: {
     question:"What is the capital of france?",
 choices: ["London", "Moscov", "Magrid", "Paris"],
 correctAnswer: "Paris",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N1.jpg"
 }, {
     question:"What is the largest country in the world?",
 choices: ["USA", "China", "Russia", "Canada"],
 correctAnswer: "Russia",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N2.webp"
 }, {
     question:"Which ocean is the largest?",
 choices: ["Pacific", "Indian", "Atlantic", "Arctic"],
 correctAnswer: "Pacific",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N3.jpg"
 }, {
     question:"Where is Egypt located?",
 choices: ["America", "Europe", "Africa", "Asia"],
 correctAnswer: "Africa",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N4.png"
 }, {
     question:"Which country is famous for the Eiffel Tower?",
 choices: ["Portugal", "France", "UK", "Germany"],
 correctAnswer: "France",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N5.png"
 }, {
     question:"Which continent is the coldest?",
 choices: ["Asia", "Antartica", "Europe", "Africa"],
 correctAnswer: "Antartica",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N6.jpg"
 }, {
     question:"What is the capital of Spain?",
 choices: ["Madrid", "Barcelona", "Lisbon", "Valencia"],
 correctAnswer: "Madrid",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N7.jpg"
 }, {
     question:"Where is Brazil located?",
 choices: ["Europe", "Africa", "Asia", "South America"],
 correctAnswer: "South America",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N8.png"
 }, {
     question:"What is the main language in Brazil?",
 choices: ["Spanish", "Portuguese", "English", "French"],
 correctAnswer: "Portuguese",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N9.jpg"
 }, {
     question:"Which river is the longest in world?",
 choices: ["Amazon", "Nile", "Yangtze", "Mississippi"],
 correctAnswer: "Nile",
-image: ""
+image: "Images/Images_Geography/Easy/Geography_easy_N10.png"
 }
     ],
     medium: [
@@ -541,52 +541,52 @@ image: ""
     question:"What is the capital of Japan?",
 choices: ["Hiroshima", "Kyoto", "Tokyo", "Osaka"],
 correctAnswer: "Tokyo",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N1.png"
 }, {
     question:"What is the highest mountain in the world?",
 choices: ["K2", "Kilimanjaro", "Everest", "Alps"],
 correctAnswer: "Everest",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N2.png"
 }, {
     question:"Where are Alps located?",
 choices: ["Asia", "Europe", "America", "Africa"],
 correctAnswer: "Europe",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N3.jpg"
 }, {
     question:"What is the capital of Canada?",
 choices: ["Toronto", "Vancouver", "Montreal", "Ottawa"],
 correctAnswer: "Ottawa",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N4.jpg"
 }, {
     question:"Which country has the largest population?",
 choices: ["India", "USA", "China", "Indonesia"],
 correctAnswer: "India",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N5.png"
 }, {
     question:"Where is the Sahara located?",
 choices: ["Asia", "Africa", "Australia", "Europe"],
 correctAnswer: "Africa",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N6.webp"
 }, {
-    question:"What is the capital of Austalia?",
+    question:"What is the capital of Australia?",
 choices: ["Sydney", "Melbourne", "Perth", "Canberra"],
 correctAnswer: "Canberra",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N7.jpg"
 }, {
     question:"Which river flows through London?",
 choices: ["Seine", "Thames", "Danube", "Rhine"],
 correctAnswer: "Thames",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N8.webp"
 }, {
     question:"Which country is shaped like a boot?",
 choices: ["Greece", "Turkey", "Italy", "Portugal"],
 correctAnswer: "Italy",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N9.jpeg"
 }, {
     question:"Where is Greenland located?",
 choices: ["North America", "Asia", "South America", "Europe"],
 correctAnswer: "North America",
-image: ""
+image: "Images/Images_Geography/Medium/Geography_medium_N10.png"
 }
     ],
     hard: [
@@ -594,53 +594,53 @@ image: ""
     question:"What is the capital of Brazil?",
 choices: ["Salvador", "Rio de Janeiro", "São Paulo", "Brasília"],
 correctAnswer: "Brasília",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N1.jpg"
 }, {
     question:"What is the longest river in South America?",
 choices: ["Amazon", "Paraná", "Orinoco", "São Francisco"],
 correctAnswer: "Amazon",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N2.jpg"
 }, {
     question:"Which country is landblocked?",
 choices: ["Portugal", "Bolivia", "Japan", "Ukraine"],
 correctAnswer: "Bolivia",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N3.jpg"
 }, {
     question:"Where is the Dead Sea located?",
 choices: ["Egypt", "Turkey", "Iran", "Israel/Jordan"],
 correctAnswer: "Israel/Jordan",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N4.jpg"
 }, {
     question:"Which country has the most islands?",
 choices: ["USA", "Indonesia", "Sweden", "Japan"],
 correctAnswer: "Sweden",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N5.png"
 }, {
     question:"What is the capital of Turkey?",
 choices: ["Istanbul", "Izmir", "Ankara", "Bursa"],
 correctAnswer: "Ankara",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N6.jpg"
 }, {
     question:"Which country borders the most countries?",
 choices: ["Russia", "Brazil", "China", "Germany"],
 correctAnswer: "China",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N7.gif"
 }, {
     question:"What is the deepest point in the ocean?",
 choices: ["Mariana Trench", "Bermuda", "Pacific Ridge", "Java Trench"],
 correctAnswer: "Mariana Trench",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N8.png"
 }, {
     question:"Where is Mount Kilimanjaro located?",
 choices: ["Ethiopia", "Tanzania", "Kenya", "Uganda"],
 correctAnswer: "Tanzania",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N9.jpg"
 } , {
     question:"Which country has two official capitals?",
 choices: ["Netherlands", "Malaysia", "Russia", "Bolivia"],
 correctAnswer: "Bolivia",
-image: ""
+image: "Images/Images_Geography/Hard/Geography_hard_N10.png"
 }
-]
+    ]
 }
 }
