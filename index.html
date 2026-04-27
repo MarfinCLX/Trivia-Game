@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loader" class="loader-container">
+        <div class="box">
+    <span style="--i:0;"></span>
+    <span style="--i:1;"></span>
+    <span style="--i:2;"></span>
+    <span style="--i:3;"></span>
+    <span style="--i:4;"></span>
+    <span style="--i:5;"></span>
+    <span style="--i:6;"></span>
+    <span style="--i:7;"></span>
+    <span style="--i:8;"></span>
+    <span style="--i:9;"></span>
+    <span style="--i:10;"></span>
+    <span style="--i:11;"></span>
+    <span style="--i:12;"></span>
+    <span style="--i:13;"></span>
+    <span style="--i:14;"></span>
+    <span style="--i:15;"></span>
+</div>
+    </div>
+<div class="screen-container">
+    <h1>Quiz Game</h1>
+    <div id="theme-screen" class="screen">
+        <h2>Choose a Theme</h2>
+        <button class="theme-btn" data-theme="programming">Programming</button>
+        <button class="theme-btn" data-theme="trafficRules">Traffic Rules</button>
+        <button class="theme-btn" data-theme="history">History</button>
+        <button class="theme-btn" data-theme="geography">Geography</button>
+    </div>
+
+    <div id="difficulty-screen" class="screen screen-hidden">
+        <h2>Choose Difficulty</h2>
+        <button class="diff-btn" data-diff="easy">Easy</button>
+        <button class="diff-btn" data-diff="medium">Medium</button>
+        <button class="diff-btn" data-diff="hard">Hard</button>
+    </div>
+
+    <div id="quiz-screen" class="screen screen-hidden">
+        <img id="image" style="display:none; max-width: 300px;">
+        <h2 id="question"></h2>
+        <div id="choices"></div>
+    </div>
+
+    <div id="result-screen" class="screen screen-hidden">
+        <div id="display-result"></div>
+    </div>
+
+</div>
+
+<script src="questions.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
