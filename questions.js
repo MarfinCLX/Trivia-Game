@@ -2,7 +2,7 @@ const quizDataBase = {
 programming: {
 easy: [
   {
-  question: 'What whill this code output? Python: print("Hello")',
+  question: 'What whill this code output?',
   choices: ["Hello", "Error", "0", "Nothing"],
   correctAnswer: "Hello",
   image: "Images/Images_Programming/Easy/programming_easy_N1.png"
@@ -22,12 +22,12 @@ choices: ["Runs programs", "Creates databases", "Builds applications", "Styles w
 correctAnswer: "Styles websites",
 image: "Images/Images_Programming/Easy/programming_easy_N4.png"
   }, {
-question: "What will this code output? C++: cout << 5",
+question: "What will this code output?",
 choices: ["5", "Cout", "Error", "Nothing"],
 correctAnswer: "5",
 image: "Images/Images_Programming/Easy/programming_easy_N5.png"
   }, {
-question: "What will this code output? Java: System.out.println(\"10\")",
+question: "What will this code output?",
 choices: ["System.out.printIn", "10", "Nothing", "Page not defined"],
 correctAnswer: "10",
 image: "Images/Images_Programming/Easy/programming_easy_N6.png"
@@ -37,7 +37,7 @@ choices: ["Builds applications", "Styles websites", "Creates databases", "Games"
 correctAnswer: "Creates databases",
 image: "Images/Images_Programming/Easy/programming_easy_N7.svg"
   }, {
-question: "What will this code output? JavaScript: console.log(3 + 4)",
+question: "What will this code output?",
 choices: ["Nothing", "3 + 4", "Error", "7"],
 correctAnswer: "7",
 image: "Images/Images_Programming/Easy/programming_easy_N8.png"
@@ -55,42 +55,42 @@ image: "Images/Images_Programming/Easy/programming_easy_N10.png"
 ],
 medium: [
   {
-question: "What will this code output? Python: x = 5; print(x * 2)",
+question: "What will this code output?",
 choices: ["5", "10", "0", "Nothing"],
 correctAnswer: "10",
 image: "Images/Images_Programming/Medium/programming_medium_N1.png"
   }, {
-question: "What will this code output? JavaScript: let y = 8; console.log(y / 4);",
+question: "What will this code output?",
 choices: ["2", "8", "Error 404", "Nothing"],
 correctAnswer: "2",
 image: "Images/Images_Programming/Medium/programming_medium_N2.png"
   }, {
-question: "What does this HTML code do? HTML: <h1> Hello World </h1>",
+question: "What does this HTML code do?",
 choices: ["Creates a heading", "Creates a paragraph", "Creates a list", "Creates a link"],
 correctAnswer: "Creates a heading",
 image: "Images/Images_Programming/Medium/programming_medium_N3.png"
   }, {
-question: "What does this CSS code do? CSS: color: red;",
+question: "What does this CSS code do?",
 choices: ["Changes border color", "Changes background color", "Changes font size", "Changes text color"],
 correctAnswer: "Changes text color",
 image: "Images/Images_Programming/Medium/programming_medium_N4.png"
   }, {
-question: "What will this code output? C++: int a = 10; cout << a - 3;",
+question: "What will this code output?",
 choices: ["Error", "10", "Error", "7"],
 correctAnswer: "7",
 image: "Images/Images_Programming/Medium/programming_medium_N5.png"
   }, {
-question: "What will this code output? Java: int b = 15; System.out.println(b / 3);",
+question: "What will this code output?",
 choices: ["45", "15", "5", "9"],
 correctAnswer: "5",
 image: "Images/Images_Programming/Medium/programming_medium_N6.png"
   }, {
-question: "What does this SQL query do? SQL: SELECT * FROM users;",
+question: "What does this SQL query do?",
 choices: ["Updates all records in the User table", "Deletes all records from the users table", "Selects all columns from the users table", "Inserts a new record into the users table"],
 correctAnswer: "Selects all columns from the users table",
 image: "Images/Images_Programming/Medium/programming_medium_N7.png"
   }, {
-question: "What will this code output? C#: int x = 3; console.WriteLine(x * x);",
+question: "What will this code output?",
 choices: ["9", "3", "Error", "Nothing"],
 correctAnswer: "9",
 image: "Images/Images_Programming/Medium/programming_medium_N8.png"
@@ -108,52 +108,52 @@ image: "Images/Images_Programming/Medium/programming_medium_N10.png"
 ], 
 hard: [
 {
-    question:"What will this code output? Python: print(10 // 3)",
+    question:"What will this code output?",
 choices: ["3.33...", "3", "Error", "4"],
 correctAnswer: "3",
 image: "Images/Images_Programming/Hard/programming_hard_N1.png"
 }, {
-    question:"What will this code output? JavaScript: console.log('Hi' * 3)",
+    question:"What will this code output?",
 choices: ["NaN", "HiHiHi", "3Hi", "Hi3"],
 correctAnswer: "NaN",
 image: "Images/Images_Programming/Hard/programming_hard_N2.png"
 }, {
-    question:"What will this HTML code do? HTML: <a href='google.com'> Open </a> ",
+    question:"What will this HTML code do?",
 choices: ["Nothing, this code has an error", "Create a image", "Create a new file", "Creates a link to Google"],
 correctAnswer: "Creates a link to Google",
 image: "Images/Images_Programming/Hard/programming_hard_N3.png"
 }, {
-    question:"What does this CSS code do? CSS: display: none;",
+    question:"What does this CSS code do?",
 choices: ["Changes the font size", "Shows the element", "Hides the element", "Changes the background color"],
 correctAnswer: "Hides the element",
 image: "Images/Images_Programming/Hard/programming_hard_N4.png"
 }, {
-    question:"What will this code output? C++: int a = 10; int b= 3; cout << a % b;",
+    question:"What will this code output?",
 choices: ["0", "Error", "1", "3"],
 correctAnswer: "1",
 image: "Images/Images_Programming/Hard/programming_hard_N5.png"
 }, {
-    question:"What will thhis code output? Java: for(int i=0; i<2; i++){ System.out.println(Go); }",
+    question:"What will thhis code output?",
 choices: ["Go 0 times", "Go 1 times", "Go 2 times", "Go 3 times"],
 correctAnswer: "Go 2 times",
 image: "Images/Images_Programming/Hard/programming_hard_N6.png"
 }, {
-    question:"What does this SQL query do? SQL: DELETE FROM users;",
+    question:"What does this SQL query do?",
 choices: ["Updates all records in the User table", "Selects all columns from the users table", "Deletes all records from the users table", "Inserts a new record into the users table"],
 correctAnswer: "Deletes all records from the users table",
 image: "Images/Images_Programming/Hard/programming_hard_N7.png"
 }, {
-    question:"What will this code output? C#: int x = 5; int y = 2; console.WriteLine(x * y * 2 / 4);",
+    question:"What will this code output?",
 choices: ["5", "10", "Error", "2.5"],
 correctAnswer: "5",
 image: "Images/Images_Programming/Hard/programming_hard_N8.png"
 }, {
-    question:"What will this code output? Python: print(len('ARMADA'))",
+    question:"What will this code output?",
 choices: ["4", "5", "6", "7"],
 correctAnswer: "6",
 image: "Images/Images_Programming/Hard/programming_hard_N9.png"
 }, {
-    question:"What will this code output? JavaScript: let x = 5; if(x > 3){ console.log(´Yes´) }",
+    question:"What will this code output?",
 choices: ["0", "No", "Error", "Yes"],
 correctAnswer: "Yes",
 image: "Images/Images_Programming/Hard/programming_hard_N10.png"
