@@ -40,7 +40,6 @@ window.addEventListener('load', () => {
     console.log("--- ОТЛАДКА ЗАВЕРШЕНА ---");
 });
 
-// 1. Функция переключения (всегда сверху!)
 function showScreen(screenId) {
     const screens = document.querySelectorAll('.screen');
     screens.forEach(s => s.classList.add('screen-hidden'));
@@ -51,14 +50,12 @@ function showScreen(screenId) {
     }
 }
 
-// 2. Переменные
 let currentTheme = "";
 let currentDifficulty = "";
 let currentQuestions = []; 
 let currentQuestionIndex = 0;
 let score = 0;
 
-// 3. Логика квиза
 function loadQuestion() {
     const questionElement = document.getElementById("question");
     const choicesContainer = document.getElementById("choices");
@@ -96,7 +93,7 @@ function checkAnswer(selected) {
         score++;
     }
     currentQuestionIndex++;
-    loadQuestion(); // Грузим следующий вопрос
+    loadQuestion();
 }
 
 let level = '';
@@ -119,8 +116,6 @@ function showResults() {
     resDiv.innerHTML = `Your score is ${score} of ${currentQuestions.length} <br> Level: <span style="color:${color};font-weight:bold;">${level}</span>`;
 }
 
-
-// 4. ЗАПУСК (Один блок на всё)
 window.addEventListener('load', () => {
     console.log("Загрузка завершена");
     
@@ -132,7 +127,6 @@ window.addEventListener('load', () => {
         };
     });
 
-        // Слушаем кнопки сложности
         document.querySelectorAll('.diff-btn').forEach(btn => {
             btn.onclick = () => {
                 currentDifficulty = btn.getAttribute('data-diff');
