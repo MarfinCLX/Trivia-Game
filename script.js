@@ -57,23 +57,34 @@ let currentQuestionIndex = 0;
 let score = 0;
 
 function loadQuestion() {
+    const q = currentQuestions[currentQuestionIndex];
     const questionElement = document.getElementById("question");
     const choicesContainer = document.getElementById("choices");
+    const hardWrapper = document.getElementById("hard-input-wrapper");
     const imgElement = document.getElementById("image");
 
-    if (currentQuestionIndex < currentQuestions.length) {
-        const q = currentQuestions[currentQuestionIndex];
-        questionElement.innerText = q.question;
+    questionElement.innerText = q.question;
 
-        // Картинка
-        if (q.image) {
-            imgElement.src = q.image;
-            imgElement.style.display = "block";
-        } else {
-            imgElement.style.display = "none";
-        }
+    // Картинка
+    if (q.image) {
+        imgElement.src = q.image;
+        imgElement.style.display = "block";
+    } else {
+        imgElement.style.display = "none";
+    }
 
-        // Кнопки ответов
+    // ЛОГИКА СЛОЖНОСТИ
+    if (currentDifficulty === 'hard') {
+        choicesContainer.style.display = "none"; // Прячем кнопки
+        hardWrapper.style.display = "block";    // Показываем инпут
+        
+        const inputField = document.getElementById("answer-input");
+        inputField.value = ""; // Очистка
+        inputField.focus();    // Курсор сразу в поле
+    } else {
+        choicesContainer.style.display = "flex"; // Показываем кнопки
+        hardWrapper.style.display = "none";     // Прячем инпут
+        
         choicesContainer.innerHTML = "";
         q.choices.forEach(choice => {
             const btn = document.createElement("button");
@@ -82,19 +93,37 @@ function loadQuestion() {
             btn.onclick = () => checkAnswer(choice);
             choicesContainer.appendChild(btn);
         });
-    } else {
-        showResults();
     }
 }
 
 function checkAnswer(selected) {
     const correct = currentQuestions[currentQuestionIndex].correctAnswer;
-    if (selected === correct) {
+
+    // Сравниваем без учета регистра и лишних пробелов
+    if (selected.toLowerCase().trim() === correct.toLowerCase().trim()) {
         score++;
     }
+
     currentQuestionIndex++;
-    loadQuestion();
+    if (currentQuestionIndex < currentQuestions.length) {
+        loadQuestion();
+    } else {
+        showResults();
+    }
 }
+
+// Привязываем кнопку "Ответить" и клавишу Enter
+document.getElementById("submit-hard").onclick = () => {
+    const val = document.getElementById("answer-input").value;
+    checkAnswer(val);
+};
+
+document.getElementById("answer-input").addEventListener("keypress", (e) => {
+    if (e.key === "Enter") {
+        const val = document.getElementById("answer-input").value;
+        checkAnswer(val);
+    }
+});
 
 let level = '';
 let color = '';
