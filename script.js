@@ -60,7 +60,7 @@ function loadQuestion() {
     const q = currentQuestions[currentQuestionIndex];
     const questionElement = document.getElementById("question");
     const choicesContainer = document.getElementById("choices");
-    const hardWrapper = document.getElementById("hard-input-wrapper");
+    const hardWrapper = document.getElementById("hard-input-container");
     const imgElement = document.getElementById("image");
 
     questionElement.innerText = q.question;
