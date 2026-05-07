@@ -7,7 +7,7 @@ Trivia Game is a logic-based challenge where users answer multiple-choice questi
 
  Key Features
  4 Diverse Categories:
-  Programming:** Technical questions for developers.
+  Programming: Technical questions for developers.
   Traffic Rules: Essential knowledge for road safety.
   History: Key events and historical acts.
   Geography: World maps, capitals, and landmarks.
@@ -15,7 +15,7 @@ Trivia Game is a logic-based challenge where users answer multiple-choice questi
 Structured Gameplay: Each session consists of 10 unique questions with 4 possible answers.
 
 Tech Stack
-Language: HTML, CSS, JavaScript]
+Language: HTML, CSS, JavaScript
 Architecture: Modular data-driven design.
 
 How to Play
