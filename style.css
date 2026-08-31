@@ -192,13 +192,14 @@ font-size: 18px;
 display: flex;
 align-items: center;
 justify-content: center;
+position: relative;
 }
 
 .input::placeholder {
     color: #c0b9c0
 }
 
-.imput:focus {
+.input:focus {
 outline: none;
 }
 
@@ -255,7 +256,7 @@ height: 600px;
 background-repeat: no-repeat;
 background-position: 0 0;
 filter: brightness(1.4);
-background-image: conic-gradient( rgba(0, 0, 0, 0) 0%, #a099d8, rgba (0, 0, 0, 0) 8%, rgba(0, 0, 0, 0) 50% #dfa2da, rgba(0, 0, 0, 0) 58%);
+background-image: conic-gradient( rgba(0, 0, 0, 0) 0%, #a099d8, rgba(0, 0, 0, 0) 8%, rgba(0, 0, 0, 0) 50%, #dfa2da, rgba(0, 0, 0, 0) 58%);
 animation: rotate 4s linear infinite;
 transition: all 2s;
 }
@@ -306,24 +307,8 @@ background-position: 0 0;
   transition: all 2s;
 }
 
-#poda::hover > .darkBorderBg::before {
-    transform: translate(-50%, -50%) rotate(262deg);
-}
-
-#poda:hover > .glow::before {
-    transform: translate(-50%, -50%) rotate(240deg);
-}
-
-#poda:hover > .white::before {
-  transform: translate(-50%, -50%) rotate(263deg);
-}
-
-#poda:hover > .border::before {
-  transform: translate(-50%, -50%) rotate(250deg);
-}
-
 #poda:hover > .darkBorderBg::before {
-  transform: translate(-50%, -50%) rotate(-98deg);
+    transform: translate(-50%, -50%) rotate(-98deg);
 }
 
 #poda:hover > .glow::before {
@@ -378,7 +363,7 @@ width: 999px;
 height: 999px;
 background-repeat: no-repeat;
 background-position: 0 0;
-/* border color, change middçe color */ 
+/* border color, change middle color */ 
  background-image: conic-gradient( #000, #402fb5 5%, #000 38%, #000 50%, #cf30aa 60%, #000 87%);
  /* change speed here */
  animation: rotate 4s 0.3s linear infinite;
@@ -460,4 +445,11 @@ animation: rotate 4s linear infinite;
 position: absolute;
 left: 20px;
 top: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 24px;
+height: 24px;
+z-index: 2;
+pointer-events: none;
 }

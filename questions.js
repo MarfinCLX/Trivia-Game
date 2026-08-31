@@ -341,7 +341,7 @@ image: "Images/Images_History/Easy/History_easy_N3.jpg"
 }, {
     question:"Who discovered America in 1492?",
 choices: ["Christopher Columbus", "Vasco de Gama", "Magellan", "Cook"],
-correctAnswer: "Christoper Columbus",
+correctAnswer: "Christopher Columbus",
 image: "Images/Images_History/Easy/History_easy_N4.jpg"
 }, {
     question:"Which civilization built the pyramids?",
